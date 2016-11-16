@@ -1,0 +1,8 @@
+.vagrant
+.librarian
+VagrantBK
+.tmp/
+.ruby-gemset
+.ruby-version
+.eclass
+eclass
